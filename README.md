@@ -1,2 +1,2 @@
-# SPS
-SPS
+# HTML, CSS & JAVAScript Project
+RockPaperScissors Game
