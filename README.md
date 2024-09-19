@@ -1,2 +1,2 @@
 # HTML, CSS & JAVAScript Project
-RockPaperScissors Game
+StonePaperScissors Game
